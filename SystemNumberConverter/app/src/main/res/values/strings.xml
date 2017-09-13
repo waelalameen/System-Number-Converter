@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wael Converter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Number_System_types">
+        <item>decimal</item>
+        <item>binary</item>
+        <item>octal</item>
+        <item>hexadecimal</item>
+    </string-array>
+</resources>
